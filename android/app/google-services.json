@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55647709521",
+    "project_id": "bmsce-canteens",
+    "storage_bucket": "bmsce-canteens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55647709521:android:7a5854c8fd36dbd8f90b70",
+        "android_client_info": {
+          "package_name": "com.example.bmsce_canteens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5kMQHGHtQOdJKDjZojF0ujCQkD-wPu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

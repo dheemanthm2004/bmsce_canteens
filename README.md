@@ -31,7 +31,7 @@ A Flutter-based mobile application designed to revolutionize food ordering for s
 
 ## App Highlights  
 - **Efficient Ordering**: Minimizes queues by allowing pre-orders.  
-- **Secure Transactions**: Integrated with popular UPI options like GPay and PhonePe.  
+- **Secure Transactions**: Integrated with popular Card transactions using Stripe.  
 - **Operational Insights**: Helps administrators manage inventory efficiently.  
 
 ---
